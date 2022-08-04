@@ -1,2 +1,4 @@
 sonarqube-unittest-creds.txt
 *pycache*
+coverage.xml
+result.xml
