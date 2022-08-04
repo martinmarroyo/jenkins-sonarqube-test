@@ -28,4 +28,4 @@ def test_get_balance(account):
 
 def test_get_acct_number(account):
     acct = account
-    assert acct.get_acct_number() == 1
+    assert acct.get_acct_number() == 2
